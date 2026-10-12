@@ -14,5 +14,6 @@ with a formal JSON schema (`stp-game-package-1.2`) and a full test suite.
 I am a software developer working on educational WordPress plugins.
 This repo documents the engineering approach and will host
 the open-source portions of the engine.
+Tests and production code remain in the private repository.
 
 — Pouya Abbasi ([@PRABBASI](https://github.com/PRABBASI))
